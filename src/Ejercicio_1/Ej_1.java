@@ -7,11 +7,12 @@ public class Ej_1 {
 	
 	public static void main(String[] args) {
 		Scanner hallar = new Scanner(System.in);
-		int n1, n2;
+		int n1, n2, n3;
 
 		System.out.println("Ingrese dos números enteros:");
 		n1 = hallar.nextInt();
 		n2 = hallar.nextInt();
+		
 
 		if (n1 > 20) {
 			System.out.println("El primer numero ingresado es mayor a 20");
