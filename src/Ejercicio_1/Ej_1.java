@@ -1,6 +1,7 @@
 package Ejercicio_1;
 
 import java.util.*;
+ejercicio editado
 
 public class Ej_1 {
 	
@@ -8,7 +9,7 @@ public class Ej_1 {
 		Scanner hallar = new Scanner(System.in);
 		int n1, n2;
 
-		System.out.println("Ingrese dos números enteros:");
+		System.out.println("Ingrese dos nÃºmeros enteros:");
 		n1 = hallar.nextInt();
 		n2 = hallar.nextInt();
 
@@ -37,7 +38,7 @@ public class Ej_1 {
 		if (n1 < 20) {
 
 			if (n2 < 20) {
-				System.out.println("Ningún número cumple con la condición");
+				System.out.println("NingÃºn nÃºmero cumple con la condiciÃ³n");
 			}
 
 		}
