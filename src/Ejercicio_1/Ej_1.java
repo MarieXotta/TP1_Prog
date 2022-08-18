@@ -1,7 +1,7 @@
 package Ejercicio_1;
 
 import java.util.*;
-ejercicio editado
+
 
 public class Ej_1 {
 	
